@@ -22,7 +22,7 @@
 
         <mysqlconnector.group>mysql</mysqlconnector.group>
         <mysqlconnector.id>mysql-connector-java</mysqlconnector.id>
-        <mysqlconnector.version>8.0.13</mysqlconnector.version>
+        <mysqlconnector.version>8.0.16</mysqlconnector.version>
         <!--<mysqlconnectordependency>mysql:mysql-connector-java:8.0.13</mysqlconnectordependency>-->
 
         <mp-jwt.version>1.0</mp-jwt.version>
