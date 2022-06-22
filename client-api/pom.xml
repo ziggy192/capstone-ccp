@@ -31,7 +31,7 @@
         <nd4j.backend>nd4j-native-platform</nd4j.backend>
         <nd4j.version>1.0.0-beta3</nd4j.version>
 
-        <elasticSearch.version>6.5.1</elasticSearch.version>
+        <elasticSearch.version>6.8.15</elasticSearch.version>
     </properties>
 
     <dependencies>
